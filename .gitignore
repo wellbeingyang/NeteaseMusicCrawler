@@ -1,0 +1,6 @@
+music/*
+*.exe
+dist/*
+build/*
+*.pyc
+__pycache__/

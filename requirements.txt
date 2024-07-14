@@ -1,0 +1,6 @@
+Crypto
+requests
+lxml
+mutagen
+ffmpeg-python
+tkinter
