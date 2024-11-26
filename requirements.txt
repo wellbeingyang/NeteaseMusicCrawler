@@ -1,0 +1,10 @@
+Crypto
+requests
+lxml
+mutagen
+pillow
+
+# additional requirements for GUI
+tkinter
+pyinstaller
+
